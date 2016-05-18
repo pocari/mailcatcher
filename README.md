@@ -7,7 +7,7 @@ mailcatcher in docker
 docker run -d -p 1080:1080 -p 1025:1025 pocari/mailcatcher
 ```
 
-###your SMTP server settings
+### Your SMTP server settings
 - host: ${docker-host's ip}
 - post: 1025
 
